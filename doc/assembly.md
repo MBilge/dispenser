@@ -67,15 +67,18 @@ Now mount LCD to PCB:
 
 - Use double side foam tape. Stick to LCD first, then cut borders, then stick
   to PCB
-- Fit heat shrink tube over that. You need 40-42mm of 18mm-wide tube. Center it
-  over LCD, then shrink back side, then front side.
+- Fit heat shrink tube over that. You need 42-45mm of 18mm-wide tube.
+  - Center tube over LCD, push PCB to flat table with LCD down (minimize
+    gap between tube and LCD surface).
+  - Shrink tube on back and sides.
+  - Reverse PCB and shrink tube on front. You can remove air gaps by finger if
+    needed, but that's not critical.
 
 ![](images/dispenser_lcd_mount.jpg)
 
-Don't worry about small air bubbles between heat shrink tube and screen surface,
-those will not affect image quality anyhow. It's possible to use special
-UV-activated glue for displays to avoid air gaps. But that does not worth
-efforts been spent.
+Don't worry about small air bubbles at screen surface, those will not affect
+image quality anyhow. It's possible to use special UV-activated glue for
+displays to avoid air gaps. But that does not worth efforts been spent.
 
 Assembled PCB with power on:
 
