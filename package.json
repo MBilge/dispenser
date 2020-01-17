@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build:fonts": "./support/build_icons.js && svg2ttf --ts 0 ./support/icons.svg ./support/icons.ttf && shx rm -rf ./support/icons.svg && ./support/build_fonts.js nocompress"
+    "build:fonts": "./support/build_icons.js && svg2ttf --ts 0 ./support/icons.svg ./support/icons.ttf && shx rm -rf ./support/icons.svg && ./support/build_fonts.js"
   },
   "license": "MIT",
   "devDependencies": {

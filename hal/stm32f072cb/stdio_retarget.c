@@ -1,4 +1,4 @@
-#include "usb_device.h"
+/*#include "usb_device.h"
 #include "usbd_cdc_if.h"
 
 
@@ -42,3 +42,4 @@ int _fstat(int fd, struct stat* st) {
     st->st_mode = S_IFCHR;
     return 0;
 }
+*/
